@@ -20,7 +20,7 @@ It is powered by 4 rechargable AA batteries (about 5 volt charged). I added a fu
 
 Power to the ledstrip is controlled through a PNP transistor controlled by the microcontroller. This was done to reduce the power consumption during sleep.
 
-A piezo disc with parallel resistor is used as a impact detector: It is used wake up the lantern from sleep mode or to cycle through the pattern. You can use a switch instead.
+A piezo disc with parallel resistor is used as a impact detector: It is used wake up the lantern from sleep mode or to cycle through the patterns. You can use a switch instead.
 
 # Operation of the lantern
 On startup / wake up the last used pattern will be rendered by the leds at maximum brightness. Every minute the brightness is reduced one step, until the brightness reaches a lower treshold. At that point sleep mode is entered.
