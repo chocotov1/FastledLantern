@@ -10,6 +10,12 @@ Key components:
 - 4 reachargable AA batteries and holder
 - a sacrificed lantern
 
+## Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Jqpl8n0RjC8
+" target="_blank"><img src="http://img.youtube.com/vi/Jqpl8n0RjC8/0.jpg" 
+alt="FastledLantern demo youtube" width="480" height="360" border="10" /></a>
+
 ## FastledLantern prototype setup
 
 My protoype version was integrated into a Ikea Solvinden solar garden lantern. Solar charging was not implemented, due to a too low voltage of the built-in solar panel (2.8 V under optimum conditions).
