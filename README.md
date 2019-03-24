@@ -12,7 +12,7 @@ Key components:
 
 # FastledLantern prototype setup
 
-My protoype version was integrated into an Ikea Solvinden solar garden lantern. Solar charging was not implemented, due to a too low voltage of the built-in solar panel (2.8 V under optimum conditions).
+My protoype version was integrated into a Ikea Solvinden solar garden lantern. Solar charging was not implemented, due to a too low voltage of the built-in solar panel (2.8 V under optimum conditions).
 
 The ws2812b led strip is configured in two stacked rings of 7 leds, 14 leds in total. Leds 1 to 7 are in the bottom row, 8 to 14 are in the top row.
 
@@ -36,6 +36,6 @@ Besides Fire2012WithPaletteLantern, some other patterns are also included:
 - bulb
 
 # Helpful links
-Example of attiny pin change interrupt:
+Example of ATtiny pin change interrupt:
 
 http://gammon.com.au/forum/?id=11497&reply=6#reply6
