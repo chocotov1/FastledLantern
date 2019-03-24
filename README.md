@@ -26,7 +26,12 @@ It is powered by 4 rechargable AA batteries (about 5.6 when fully charged). I ad
 
 Power to the ledstrip is controlled through a PNP transistor controlled by the microcontroller. This was done to reduce the power consumption during sleep.
 
-A piezo disc with parallel resistor is used as a impact detector: It is used wake up the lantern from sleep mode or to cycle through the patterns. You can use a switch instead.
+<img src="https://raw.githubusercontent.com/chocotov1/FastledLantern/master/media/FastledLantern_prototype_01_small.jpg" width=480>
+<img src="https://raw.githubusercontent.com/chocotov1/FastledLantern/master/media/FastledLantern_prototype_02_small.jpg" width=480>
+<img src="https://raw.githubusercontent.com/chocotov1/FastledLantern/master/media/FastledLantern_prototype_03_small.jpg" width=480>
+<img src="https://raw.githubusercontent.com/chocotov1/FastledLantern/master/media/FastledLantern_prototype_pcb.jpg" width=480>
+
+A piezo disc with parallel resistor is used as a impact detector. It's glued into the hole of the original lamp. The battery holder rests on top of it and is secured by multiples blobs of hot glue. When it is triggered the lantern wakes up from sleep  or it cycles through the patterns if it's awake. You can use a switch instead.
 
 ## Power consumption prototype
 Batteries fully charged (5.6 V):
