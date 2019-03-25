@@ -1,5 +1,5 @@
 # FastledLantern
-Lantern with fire effect powered by ATtiny85, ws2812b leds and the [Fastled](https://github.com/FastLED/FastLED) library.
+Lantern with fire effect powered by ATtiny85, ws2812b leds and the [FastLED](https://github.com/FastLED/FastLED) library.
 
 The main feature is the Fire2012WithPaletteLantern pattern. It's a modified version of the Fire2012WithPalette Fastled example. A relaxing glowing fire effect is rendered.
 
